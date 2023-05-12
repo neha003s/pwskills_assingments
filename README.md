@@ -1,1 +1,1 @@
-# pwskills_assingments
+This repo contains all the assingments for pw datascience 2.0
